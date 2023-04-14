@@ -1,0 +1,8 @@
+Include necessary header files.
+Define a constant for the maximum length of a command line.
+Define a function to print the command prompt.
+Define a function to read user input from the command line.
+Define a function to parse the input and separate the command and its arguments.
+Define a function to execute the command.
+In the main function, repeatedly print the command prompt, read user input, parse the input, and execute the command.
+Handle errors and exit gracefully.
